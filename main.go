@@ -2,7 +2,8 @@ package main
 
 import(
 	"github.com/gofiber/fiber"
-	"github.com/ConnorRCAFInnovation/To-Do-app"
+	"github.com/ConnorRCAFInnovation/To-Do-app/task"
+	
 )
 
 func helloWorld(c *fiber.Ctx){
